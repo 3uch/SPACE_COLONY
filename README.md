@@ -15,4 +15,4 @@ Haochang Shi 003304596
 See documentation.pdf
 
 ## Video
-See submission link.
+https://lut-my.sharepoint.com/:v:/g/personal/haochang_shi_student_lut_fi/IQBp-8JAmM8lTZqlZBUPN2dkAQHO-Nh8YYthmHTs0R-YOdE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qZXYwl
